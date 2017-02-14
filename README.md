@@ -2,13 +2,13 @@
 
 ### Specs:
 > Using the US Constitution Preamble, create a JavaScript-based app that reports:
-> 1. The number of words starting with "t"
-> 1. The number of words ending with "e"
-> 1. The number of words starting with "t" and ending with "e"
+> 1. The number of words starting with "t"  
+> 2. The number of words ending with "e"  
+> 3. The number of words starting with "t" and ending with "e"
 
 ### Technologies Used:
-> 1. HTML5, CSS, JavaScript
-> 2. [jQuery 3.1.1](https://jquery.com/): DOM Manipulation
+> 1. HTML5, CSS, JavaScript  
+> 2. [jQuery 3.1.1](https://jquery.com/): DOM Manipulation  
 > 3. [Semantic-UI](http://semantic-ui.com/): DOM Styling
 
 ### How to run:
