@@ -1,7 +1,10 @@
 # Parse The Preamble
 
 ### Specs:
-> Create a Front-End Browser Rich Application that utilizes the following:
+> Using the US Constitution Preamble, create a JavaScript-based app that reports:
+> 1. The number of words starting with "t"
+> 1. The number of words ending with "e"
+> 1. The number of words starting with "t" and ending with "e"
 
 ### Technologies Used:
 > 1. HTML5, CSS, JavaScript
