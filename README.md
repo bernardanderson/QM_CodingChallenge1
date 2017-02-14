@@ -1,7 +1,7 @@
 # Parse The Preamble
 
 ### Specs:
-> Using the US Constitution Preamble, create a JavaScript-based app that reports:
+> Using the US Constitution Preamble, create a JavaScript-based app that reports:  
 > 1. The number of words starting with "t"  
 > 2. The number of words ending with "e"  
 > 3. The number of words starting with "t" and ending with "e"
