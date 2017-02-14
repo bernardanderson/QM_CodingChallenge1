@@ -31,7 +31,7 @@ var parseThePreamble = () => {
     }
     });
 
-    // Displays the results the DOM
+    // Displays the results on the DOM
     $('.word-t').text(letterCount.numberOfT);
     $('.word-e').text(letterCount.numberOfE);
     $('.word-te').text(letterCount.numberOfTE);
